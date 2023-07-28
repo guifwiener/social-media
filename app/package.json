@@ -1,0 +1,9 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "description": "API for social media project",
+  "main": "src/index.js",
+  "repository": "https://github.com/guifwiener/social-media.git",
+  "author": "Guilherme F. Wiener",
+  "license": "MIT"
+}
